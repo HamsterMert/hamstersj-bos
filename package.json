@@ -1,0 +1,15 @@
+{
+  "name": "hamstersj-bos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "HamsterMert",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "aoi.js": "^6.10.3",
+    "hamster.sj": "^1.0.4"
+  }
+}
